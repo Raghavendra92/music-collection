@@ -1,0 +1,23 @@
+{
+  "name": "music-collection",
+  "version": "1.0.0",
+  "description": "create music collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raghavendra92/music-collection.git"
+  },
+  "author": "Raghav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raghavendra92/music-collection/issues"
+  },
+  "homepage": "https://github.com/Raghavendra92/music-collection#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
